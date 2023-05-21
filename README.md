@@ -8,4 +8,4 @@ Instructor:<br>
 <br>Department of Virology
 <br>Tohoku University
 
-clyde@med.tohoku.acjp
+clyde@med.tohoku.ac.jp
